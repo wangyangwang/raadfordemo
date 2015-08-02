@@ -1,0 +1,102 @@
+.container-fluid {
+	/*	padding-top: 4em;*/
+}
+
+a {
+	color: #000;
+	transition: 0.3s;
+}
+
+p {
+	letter-spacing: 1;
+	font-size: 0.85em;
+}
+
+a:hover {
+	color: #f63d12;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 2em;
+	color: #000;
+	font-family: "Futura Lt Medium";
+	font-weight: bold;
+	letter-spacing: 10;
+	margin-bottom: 0.9em;
+}
+
+
+
+.main-menu {	
+	padding-top: 4.27em;
+}
+
+.main-menu a {
+	margin-left: 3em;
+	font-size: 1em;
+	letter-spacing: 5;
+	text-decoration: none;
+}
+
+
+p.introtext {
+	
+	line-height: 1.7em;
+	margin-bottom: 6em;
+}
+
+section.header {
+	margin: 2em 0 2em 0;
+/*	position: fixed;*/
+	z-index: 10000;
+}
+
+section.slideshow {
+	/*	max-height: 70vh;*/
+/*	margin-top: 7em;*/
+	margin-bottom: 2em;
+	/*	position: relative;*/
+}
+
+
+section.featured #featured-projects p{
+/*	margin-right: 4.66%;*/
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+	
+}
+
+
+
+.source {
+	color: #6e6e6e;
+}
+
+section#news {
+	margin-bottom: 20em;
+}
+section#news h1 {
+	margin-bottom: 2em;
+}
+#row-1{
+	margin-bottom: 3em;
+}
+#footer {
+	margin-bottom: 2em;
+}
+#footer div i{
+	font-size: 2em;
+	margin-right:1em;
+}
+#footer div i:hover {
+	color: #f63d12;
+}
+
+#footer p {
+	
+}
+
+@media (max-width: 992px) { 
+	
+}
