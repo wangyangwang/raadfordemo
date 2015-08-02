@@ -2,6 +2,17 @@
 	/*	padding-top: 4em;*/
 }
 
+
+@font-face {
+ font-family: Futura Lt Medium;
+ src: url("Futura_LT_Medium.eot") /* EOT file for IE */
+}
+@font-face {
+ font-family: Futura Lt Medium;
+ src: url("Futura_LT_Medium.ttf") /* TTF file for CSS3 browsers */
+}
+
+
 body {
 	font-family: "Futura Lt Medium";
 /*	background: #eee;*/
