@@ -2,14 +2,21 @@
 	/*	padding-top: 4em;*/
 }
 
+body {
+	font-family: "Futura Lt Medium";
+/*	background: #eee;*/
+
+}
+
+
 a {
 	color: #000;
 	transition: 0.3s;
 }
 
 p {
-	letter-spacing: 1;
-	font-size: 0.85em;
+/*	font-family: ''*/
+	font-size: 0.8em;	
 }
 
 a:hover {
@@ -20,9 +27,9 @@ a:hover {
 h1 {
 	font-size: 2em;
 	color: #000;
-	font-family: "Futura Lt Medium";
+/*	font-family: "Futura LT Condensed";*/
 	font-weight: bold;
-	letter-spacing: 10;
+	letter-spacing: 8;
 	margin-bottom: 0.9em;
 }
 
@@ -33,7 +40,7 @@ h1 {
 .main-menu a {
 	margin-left: 3em;
 	font-size: 1em;
-	letter-spacing: 5;
+/*	letter-spacing: 7;*/
 	text-decoration: none;
 }
 
@@ -61,7 +68,6 @@ section.slideshow {
 
 section.featured #featured-projects p {
 	/*	margin-right: 4.66%;*/
-	
 	margin-top: 0.5em;
 	margin-bottom: 1em;
 }
