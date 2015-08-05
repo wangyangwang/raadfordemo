@@ -53,13 +53,12 @@ $(document).ready(function () {
 			'top':'0',
 			'left':'15px',
 			'z-index':1000,
-			'opacity':0.2
+			'opacity':0.8
 		})
 		
 		$(this).append(overlay);
 	}, function () {
 		$(this).css('color','#000');
-//		$(this).find('img').removeClass('tint');
 		$('#foo').remove();
 	});
 
